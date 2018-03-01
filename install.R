@@ -10,4 +10,7 @@ install.packages("RWeka")
 install.packages("rpart.plot")
 install.packages("partykit")
 install.packages("randomForest")
-
+install.packages("kknn")
+install.packages("wordcloud")
+install.packages("rattle")
+install.packages("tm")
