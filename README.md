@@ -1,6 +1,6 @@
 # Starting a notebook
 
-Jupyter+R: [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/compstat-lmu/lecture_intro_to_ml_notebooks/master?filepath=index.ipynb)
+Jupyter+R: [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/compstat-lmu/lecture_intro_to_ml_notebooks/master?filepath=./)
 
 RStudio: [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/compstat-lmu/lecture_intro_to_ml/master?urlpath=rstudio)
 
