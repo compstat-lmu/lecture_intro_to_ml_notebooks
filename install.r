@@ -1,0 +1,13 @@
+install.packages("mlr")
+install.packages("tidyverse")
+install.packages("plotly")
+install.packages("mlbench")
+install.packages("BBmisc")
+install.packages("rpart")
+install.packages("methods")
+install.packages("devtools")
+install.packages("RWeka")
+install.packages("rpart.plot")
+install.packages("partykit")
+install.packages("randomForest")
+
