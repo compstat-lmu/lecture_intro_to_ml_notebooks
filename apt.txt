@@ -1,1 +1,1 @@
-gtk2.0-devel
+gtk2.0
