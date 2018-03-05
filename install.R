@@ -1,6 +1,7 @@
 install.packages("mlr")
 install.packages("tidyverse")
 install.packages("plotly")
+install.packages("pandoc")
 install.packages("mlbench")
 install.packages("BBmisc")
 install.packages("rpart")
